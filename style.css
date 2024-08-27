@@ -1,0 +1,68 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu{
+    display: flex;
+    position: absolute;
+    left: 1000px;
+}
+.menu:hover{
+    background-color: brown;
+}
+.logo img{
+ position: absolute;
+ top: 20px; 
+ border-radius: 50%;
+}
+.hpara{
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    color: whitesmoke;
+}
+    .para{
+        position: relative;
+        top: 300px;
+        left: 100px;
+        color: darkorange;
+    }
+    .more{
+        position: absolute;
+        top: 450px;
+        left: 500px;
+    }
+    .abo{
+        position: absolute;
+        left: 100px;
+        top: 200px;
+    }
+    .about img{
+        width: 500px;
+        height: 400px;
+
+    }
+    .abimg{
+        position: absolute;
+        top: 250px;
+        left: 800px;
+        text-align: center;
+        
+    }
+    .coimg img{
+        width: 400px;
+        height: 400px;
+        
+    }
+    .cont{
+        position: absolute;
+        top: 200px;
+        left: 100px;
+    }
+    .conim img{
+        width: 500px;
+        height: 400px;
+        position: absolute;
+        top: 200px;
+        left: 600px;
+    }
